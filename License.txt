@@ -5,3 +5,5 @@ This license governs your use of this software, or whatever it is you’re current
 Please read carefully, or don’t. We’re not your boss.
 
 Date:05.03.2025
+
+link: github.com
